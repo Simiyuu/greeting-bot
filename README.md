@@ -1,4 +1,4 @@
-# Simple Greeting Bot 👋
+# Simple Greeting Bot 
 
 A simple JavaScript application that generates a greeting message. This project demonstrates how to run JavaScript code using Node.js directly in the terminal.
 
